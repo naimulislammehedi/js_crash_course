@@ -1,0 +1,43 @@
+part 1; 
+1. introduction to javascript 
+2. js conditionals 
+3. js array
+4. js loops 
+5. js string 
+6. js objects
+7. js functions 
+8. js simple coding problem - 1 
+9. js simple coding problem - 2 
+
+part 2; 
+10 - introduction to DOM 
+11 - event, addEventListener, Event bubble 
+12 - js dom practice - 1
+13 - js dom practice - 2
+14 - js dom practice - 3 
+15 - js dom practice - 4 
+16 - js dom practice - 5 
+
+part 3: 
+17 - basic es6 
+18 - difference between var, let and const 
+19 - function default parameter for not provided values 
+20 - template string, multiline string, dynamic string, 
+21 - arrow function syntax, params, return. 
+22 - arrow function syntax, params, return 
+23 - spread operator, array max, copy arrays 
+24 - object and array destructuring 
+25 - keys, values, entries, delete, seal, freeze 
+26 - accessing object data: nested object, dot vs bracket and optional chaining 
+27 - looping objects: for...in, for...of 
+28 - primitive and non-primitive data types 
+29 - null vs undefined and why undefiend happens 
+30 - different truthy and falsy values in js 
+31 - double equal (==) vs triple equal (===), implicit conversion
+32 - explore closure in details 
+33 - callback function and pass different function 
+34 - function arguments pass by reference and pass by value 
+35 - map, forEach 
+36 - filter, find, reduce 
+
+your first task is make this outline more easy, beginner friendly and professional for js crash course

@@ -11,6 +11,7 @@
 7. Conditionals
 8. Loops
 
+
 #### 🔹 Module 2: Working with Data
 
 9. Strings

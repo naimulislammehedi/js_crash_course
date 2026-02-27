@@ -8,3 +8,7 @@ let user = {
 
 console.log(user.name); // dot notation 
 console.log(user['age']); // bracket notation 
+
+user.email = "test@gmail.com"; 
+
+console.log(user); 

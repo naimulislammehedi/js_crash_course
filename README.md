@@ -47,7 +47,3 @@
 30. Event Bubbling
 31. DOM Practice Projects
 
-#### 🔹 Module 6: Practice
-
-32. Coding Problem Set 1
-33. Coding Problem Set 2

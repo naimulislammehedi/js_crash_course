@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 31. Event Bubbling -->
+    <!-- Events move from child → parent. -->
+     <div id="parent">
+        <button id="child">Click</button>
+     </div>
+
+     <script>
+        document.getElementById("parent").addEventListener("click", () => {
+            console.log("Parent clicked"); 
+        }); 
+
+        
+        document.getElementById("child").addEventListener("click", () => {
+            // To stop bubbling:
+            // event.stopPropagation(); 
+            console.log("Child clicked"); 
+        })
+     </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="title">Hello</h1>
+
+    <p class="item">Coffee</p>
+    <p class="item">Tea</p>
+    <p class="item">Water</p>
+
+    <script>
+        // 27 - Selecting Elements
+        // By ID
+        const title = document.getElementById("title"); 
+
+        // By Class 
+        const items = document.getElementsByClassName("item");
+        
+        // by querySelector (modern & flexible)
+        const firstItem = document.querySelector(".item"); 
+
+        // Select all matching 
+        const allItems = document.querySelectorAll(".item")
+        console.log(allItems); 
+    </script>
+</body>
+</html>
